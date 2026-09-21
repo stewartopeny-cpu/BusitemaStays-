@@ -21,6 +21,11 @@ The manager dashboard uses private accounts and does not require ChatGPT. Add th
 
 Students do not need an account to browse hostels, request rooms or track bookings.
 
+After the owner signs in, the **Manager accounts** section can create a separate
+login for each hostel manager. Managers can use the **Hostel listing editor** to
+change their assigned hostel's public details without touching the source code.
+The owner can edit every hostel and enable or disable manager accounts.
+
 ## Main commands
 
 - `npm run dev` — open the website locally.
