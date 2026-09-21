@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788034516740,
+      "tag": "0000_fair_wrecker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788039788450,
+      "tag": "0001_clean_exodus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789998408227,
+      "tag": "0002_calm_legion",
+      "breakpoints": true
+    }
+  ]
+}
